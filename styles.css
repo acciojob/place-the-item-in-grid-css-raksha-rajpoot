@@ -1,2 +1,9 @@
-
+.holder{
+	width:200px;
+	display:grid;
+	grid-template-columns:100px 100px;
+}
+.item{
+	border:1px solid black;
+}
 /* Your CSS Code here. */
